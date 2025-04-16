@@ -221,11 +221,7 @@ Transform:
   m_GameObject: {fileID: 197988862}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: 2.57, z: 1}
-=======
-  m_LocalPosition: {x: 0.66, y: 0, z: 2.21}
->>>>>>> parent of 8c4b805 (Added plane)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -489,7 +485,6 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 1
-<<<<<<< HEAD
 --- !u!1 &714652324
 GameObject:
   m_ObjectHideFlags: 0
@@ -709,8 +704,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-=======
->>>>>>> parent of 8c4b805 (Added plane)
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
@@ -862,11 +855,7 @@ Transform:
   m_GameObject: {fileID: 1282696735}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-<<<<<<< HEAD
   m_LocalPosition: {x: 0, y: 0, z: 1}
-=======
-  m_LocalPosition: {x: 4.8, y: 0.64, z: 1.87}
->>>>>>> parent of 8c4b805 (Added plane)
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -881,8 +870,5 @@ SceneRoots:
   - {fileID: 832575519}
   - {fileID: 1282696739}
   - {fileID: 197988866}
-<<<<<<< HEAD
   - {fileID: 714652328}
   - {fileID: 774764874}
-=======
->>>>>>> parent of 8c4b805 (Added plane)
